@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\FormAlertesMedicaments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAnimaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCalendrier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConsultations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormFactures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormFicheAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormProprietaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRapportFinancier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUtilisateurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormVaccMeds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

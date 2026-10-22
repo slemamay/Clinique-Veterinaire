@@ -1,0 +1,29 @@
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\bin\Debug\net48\CliniqueVet.exe.config
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\bin\Debug\net48\CliniqueVet.exe
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\bin\Debug\net48\CliniqueVet.pdb
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\bin\Debug\net48\BouncyCastle.Crypto.dll
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\bin\Debug\net48\itextsharp.dll
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.csproj.AssemblyReference.cache
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.AssemblyInfoInputs.cache
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.AssemblyInfo.cs
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.csproj.CoreCompileInputs.cache
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\Clinique.EECA5824.Up2Date
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.exe
+C:\Users\yassb\Downloads\CliniqueVet_v4 (2)\CliniqueVet4\CliniqueVet\obj\Debug\net48\CliniqueVet.pdb
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\bin\Debug\net48\CliniqueVet.exe.config
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\bin\Debug\net48\CliniqueVet.exe
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\bin\Debug\net48\CliniqueVet.pdb
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\bin\Debug\net48\BouncyCastle.Crypto.dll
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\bin\Debug\net48\itextsharp.dll
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.csproj.AssemblyReference.cache
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.exe.config
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.AssemblyInfoInputs.cache
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.AssemblyInfo.cs
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.csproj.CoreCompileInputs.cache
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\Clinique.EECA5824.Up2Date
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.exe
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.pdb
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.Forms.FormLogin.resources
+C:\Users\yassb\OneDrive\Desktop\CliniqueVet-20260427T120754Z-3-001\CliniqueVet\CliniqueVet\obj\Debug\net48\CliniqueVet.csproj.GenerateResource.cache

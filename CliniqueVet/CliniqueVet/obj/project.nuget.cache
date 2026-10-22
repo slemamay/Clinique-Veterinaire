@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgiJII0OADo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yassb\\OneDrive\\Desktop\\CliniqueVet-20260427T120754Z-3-001\\CliniqueVet\\CliniqueVet\\CliniqueVet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yassb\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\yassb\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
